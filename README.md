@@ -1,16 +1,36 @@
-## Hi there 👋
+## 👋 Hi, I'm ltr!
 
-<!--
-**ltr2025/ltr2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a master student at CUHK
 
-Here are some ideas to get you started:
+💻 Passionate about computer vision, deep learning, and open-source tools  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently working on:  
+
+- 🎥 Video understanding (saliency detection, smart cropping, classification)
+
+- 🔍 Object detection & segmentation (YOLOv8, DeepLabV3+, etc.)
+
+- 🧠 Training custom models on large-scale datasets (e.g. DUTS, Something-Something V2)
+
+📚 Recent interests:
+
+- Efficient model deployment
+
+- Multi-task learning for video intelligence
+
+- Real-time AI inference optimization
+
+🌱 Learning:
+
+- Advanced video representation learning
+
+- Prompt tuning & diffusion models
+
+📫 Reach me at: l101001011@163.com 
+
+💬 Always exploring new ideas in deep learning and visual understanding
+
+---
+
+_“Stay curious. Stay building.”_
+
