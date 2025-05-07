@@ -1,4 +1,4 @@
-## 👋 Hi, I'm ltr!
+## 👋 Hi, I'm Terry!
 
 🎓 I'm a master student at CUHK
 
